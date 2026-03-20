@@ -1,2 +1,3 @@
-# fast-sports-analytics-2ghe
-A sports data analytics platform for modern development workflows
+# Fast Sports Analytics 2Ghe
+
+A sports data analytics platform for modern development workflows.
